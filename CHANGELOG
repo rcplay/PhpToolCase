@@ -1,7 +1,7 @@
  
 ##########################################################
 
-PhpToolCase Version 0.8.9 open source project
+PhpToolCase Version 0.9 open source project
 
 A powerfull set of tools to speed up the process of coding
 
@@ -9,7 +9,7 @@ A powerfull set of tools to speed up the process of coding
 
 == BACKWARD COMPATIILITY (ATTENTION)!!!!! ==================
 
-VERSION 0.8.9 IS NOT COMPATIBLE WITH VERSIONS PRIOR TO 0.8.4B !!!!!!
+VERSION 0.9 IS NOT COMPATIBLE WITH VERSIONS PRIOR TO 0.8.4B !!!!!!
 
 IF YOU ARE PLANNING TO UPGRADE PLEASE DOWNLOAD VERSION 0.8.4B 
 AS IT WILL NOT BREAK YOUR CODE, AND GIVE YOU TIME TO UPGRADE.
